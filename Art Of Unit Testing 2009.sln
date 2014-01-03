@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH2", "CH2", "{EDF804B0-3442-4DE4-8D6C-D26824F9C230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAn", "LogAn\LogAn.csproj", "{3A0460DA-9A17-4D0E-A362-274E8BA57F98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAn.Tests", "LogAn.Tests\LogAn.Tests.csproj", "{AF116157-0717-4DB5-B3A3-A69DF476943E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A0460DA-9A17-4D0E-A362-274E8BA57F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0460DA-9A17-4D0E-A362-274E8BA57F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0460DA-9A17-4D0E-A362-274E8BA57F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0460DA-9A17-4D0E-A362-274E8BA57F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF116157-0717-4DB5-B3A3-A69DF476943E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF116157-0717-4DB5-B3A3-A69DF476943E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF116157-0717-4DB5-B3A3-A69DF476943E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF116157-0717-4DB5-B3A3-A69DF476943E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3A0460DA-9A17-4D0E-A362-274E8BA57F98} = {EDF804B0-3442-4DE4-8D6C-D26824F9C230}
+		{AF116157-0717-4DB5-B3A3-A69DF476943E} = {EDF804B0-3442-4DE4-8D6C-D26824F9C230}
+	EndGlobalSection
+EndGlobal
